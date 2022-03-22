@@ -5,3 +5,15 @@
   height: 944px;
   background: rgba(255, 153, 0, 0.3);
 }
+.clear-cart-btn {
+  background: #ff3030;
+  border-radius: 4px;
+  width: 232px;
+  height: 48px;
+}
+.review-order {
+  background: #ff9900;
+  border-radius: 4px;
+  width: 232px;
+  height: 48px;
+}
