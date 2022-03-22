@@ -1,0 +1,19 @@
+.cart {
+  position: sticky;
+  top: 0;
+  padding: 0 15px;
+}
+
+.clear-btn {
+  width: 232px;
+  height: 48px;
+  background: #ff3030;
+  border-radius: 4px;
+  margin-bottom: 15px;
+}
+.review-btn {
+  width: 232px;
+  height: 48px;
+  background: #ff9900;
+  border-radius: 4px;
+}
