@@ -1,4 +1,4 @@
-import { faTrashCan } from "@fortawesome/free-solid-svg-icons";
+import { faArrowRight, faTrashCan } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React, { useEffect, useState } from "react";
 import Product from "../Product/Product";
@@ -51,7 +51,7 @@ const Shop = () => {
               Review Order
               <FontAwesomeIcon
                 className="mx-2"
-                icon={faTrashCan}
+                icon={faArrowRight}
               ></FontAwesomeIcon>
             </button>
           </div>
